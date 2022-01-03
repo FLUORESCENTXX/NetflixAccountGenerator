@@ -4,17 +4,17 @@ A program that generates Netflix accounts.
 Instructions for use 📄📄📄
 First make sure you installed the following
 
-`pip install webbot`
-`pip install os`
-`pip install sys`
-`pip install time`
+`pip install requests`
 `pip install random`
+`pip install string`
+`pip install time`
 
-
+![image](https://user-images.githubusercontent.com/95067718/147990220-01287b9e-b666-4ccd-aac2-a9726947b9d6.png)
+Example of the generated account (and free acc take it)
 
 # Download 
 
-Download - https://bit.ly/3pQLduT
+Download - https://bit.ly/FluroNFGen
 
 
 # Steps.
