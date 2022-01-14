@@ -22,6 +22,16 @@ Make sure to download it and extract to a folder otherwise it won't work
 Password : dm me on discord to prevent bots fluro#0009 
 (Also if u dont have the platform you can just ask me for free accs)
 
+# Contacts
+Contacts : 
+⚡️Instagram : fxluroxescenting
+🚀Discord🚀 : fluro#0009
+🔒️Guilded🔒️ fluro#0518
+
+# Issues
+Create a new issue and i will get back as soon as possible!
+(May be a few hours late depending on if i am active, asleep or just busy)
+
 # Requirements
 Make sure to also have python (latest version recommended) on your pc!
 IOS, Android will not work!
