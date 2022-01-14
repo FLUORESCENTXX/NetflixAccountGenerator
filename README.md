@@ -43,7 +43,7 @@ I'm going to work on a netflix generator website that just generates so please b
 # Steps.
 First download the program through the download link, extract to a folder
 Type "cmd" on the folder, then python main.py
-Edit any names and enter the threads and game pin
+And enjoy!
 
 
 #Credit
