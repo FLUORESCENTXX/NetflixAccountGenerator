@@ -24,9 +24,9 @@ Password : dm me on discord to prevent bots fluro#0009
 
 # Contacts
 Contacts : 
-⚡️Instagram : fxluroxescenting
-🚀Discord🚀 : fluro#0009
-🔒️Guilded🔒️ fluro#0518
+-⚡️Instagram : fxluroxescenting
+-🚀Discord🚀 : fluro#0009
+-🔒️Guilded🔒️ fluro#0518
 
 # Issues
 Create a new issue and i will get back as soon as possible!
@@ -37,7 +37,7 @@ Make sure to also have python (latest version recommended) on your pc!
 IOS, Android will not work!
 
 # Website
-I'm going to work on a netflix generator website that just generates
+I'm going to work on a netflix generator website that just generates so please be patient!
 
 
 # Steps.
