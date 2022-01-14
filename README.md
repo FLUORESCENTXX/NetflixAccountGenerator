@@ -9,7 +9,7 @@ First make sure you installed the following
 - `pip install string`
 - `pip install time`
 
-![image](![image](https://user-images.githubusercontent.com/95067718/149472930-5decd655-ee3f-4c28-bd1e-ab932eb7c6a0.png)
+(![image](https://user-images.githubusercontent.com/95067718/149472930-5decd655-ee3f-4c28-bd1e-ab932eb7c6a0.png)
 
 
 Example of the generated account (and free acc take it)
